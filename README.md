@@ -10,5 +10,4 @@ Using Javascript and eventlisteners to track the mouse curson on the screen and 
 * css
 ## RoadMap for Improvement
 In the fututre i hope to add some more functionalities like a button that can simulate a crossed eye.
-## License
-MIT Xpro
+
